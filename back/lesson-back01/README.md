@@ -89,3 +89,13 @@ app.listen(3065, () => {
 
 
 ![image](../two.png)
+
+### REST API 종류
+
+- app.get -> 가져오다
+- app.post -> 생성하다
+- app.put -> 전체 수정
+- app.delete -> 제거
+- app.patch -> 부분 수정
+- app.options -> 찔러보기
+- app.head -> 헤더만 가져오기 
