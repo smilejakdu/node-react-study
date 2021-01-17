@@ -9,7 +9,6 @@
     - import { all, delay, fork, put, takeLatest } from 'redux-saga/effects';
 - next js
 
-if you want learn from him , search Infron and find creator nodebird
 
 ### back
 
@@ -18,3 +17,6 @@ if you want learn from him , search Infron and find creator nodebird
   - REST API
   - mysql
   - modeling
+  
+__if you want learn from him , search Infron and find creator NodeBird or Zero Cho__
+    
