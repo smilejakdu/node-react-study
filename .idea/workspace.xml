@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab002fb-74a5-4ead-a6b0-2c3eef464d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/lesson-back01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/back/lesson-back01/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
       <recent name="$PROJECT_DIR$/back" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/back/lesson-back01" />
       <recent name="$PROJECT_DIR$/back" />
     </key>
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610858705082</updated>
-      <workItem from="1610858706233" duration="3237000" />
+      <workItem from="1610858706233" duration="3521000" />
     </task>
     <servers />
   </component>
